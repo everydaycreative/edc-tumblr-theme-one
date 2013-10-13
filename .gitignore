@@ -1,6 +1,7 @@
-encrypt_key.sh
+*.sh
 tumblr_m7d5h8fF141rvs4qvo1_1280.jpg
 tumblr_mr4u8uuFT31qzh868o1_1280.jpg
 tumblr_mgodres7ac1rjt212o1_1280.jpg
 tumblr_msza17UwX81qzcdbeo1_1280.jpg
 tumblr_msy1raqDuE1s6u7eho1_1280.png
+node_modules/*
