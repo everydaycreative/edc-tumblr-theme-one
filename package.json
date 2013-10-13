@@ -1,0 +1,20 @@
+{
+  "name": "EDC-Theme-One",
+  "version": "0.1.0",
+  "description": "Everyday's Creative Tumblr Theme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/everydaycreative/edc-tumblr-theme-one.git"
+  },
+  "keywords": [
+    "tumblr",
+    "theme"
+  ],
+  "author": "Everyday Creative",
+  "license": "GPL",
+  "readmeFilename": "README.md",
+  "gitHead": "581b1af0c8dbd6cfc811a45951102533e2c3c9bb"
+}
